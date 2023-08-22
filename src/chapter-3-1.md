@@ -1,5 +1,4 @@
-Using AI-Powered Research Tools to Gather Information and Sources
-==========================================================================================================================
+
 
 Research is a crucial component of many writing projects, but it can be time-consuming and overwhelming. Fortunately, artificial intelligence (AI) can help streamline the research process by providing access to vast amounts of information and sources. In this chapter, we will explore how to use AI-powered research tools to gather information and sources.
 
