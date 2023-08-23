@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has become an increasingly important technology in many industries, including the field of writing. In this chapter, we will explore what AI is, how it works, and its applications in writing careers.
 
 What is AI and How Does It Work?
