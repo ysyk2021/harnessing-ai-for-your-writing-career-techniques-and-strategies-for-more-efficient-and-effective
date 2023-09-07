@@ -14,3 +14,7 @@ Throughout the book, we will discuss successful case studies and real-world exam
 By the end of this book, readers will have a comprehensive understanding of how AI can be used to enhance writing outcomes and the tools and techniques available to do so. Whether you're a blogger, copywriter, or novelist, Harnessing AI for Your Writing Career offers valuable insights and strategies for taking your writing to the next level.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
