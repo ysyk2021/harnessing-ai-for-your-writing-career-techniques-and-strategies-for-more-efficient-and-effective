@@ -1,5 +1,4 @@
-Chapter 3: Common Applications of AI in Writing Careers, including Natural Language Processing and Machine Learning
-===================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 AI technologies, such as Natural Language Processing (NLP) and Machine Learning (ML), have revolutionized the writing profession. In this chapter, we will explore the common applications of AI in writing careers and how NLP and ML techniques are leveraged to enhance efficiency and effectiveness.
 

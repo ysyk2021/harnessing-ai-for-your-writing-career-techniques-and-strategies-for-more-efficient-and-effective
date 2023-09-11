@@ -1,5 +1,4 @@
-Chapter 10: Addressing Concerns About AI-Generated Content and Ethical Considerations
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As AI technology becomes increasingly integrated into the writing process, concerns about AI-generated content and ethical considerations arise. In this chapter, we will delve into some of these concerns and explore strategies for addressing them in an ethical and responsible manner.
 

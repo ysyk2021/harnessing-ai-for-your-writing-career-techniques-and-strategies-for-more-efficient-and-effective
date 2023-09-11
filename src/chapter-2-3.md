@@ -1,5 +1,4 @@
-Chapter 7: Examples of Successful Implementation of AI in Writing Careers
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 AI has revolutionized the writing profession, enabling writers to achieve greater efficiency and effectiveness in their work. In this chapter, we will explore real-world examples of successful implementations of AI in writing careers, showcasing how AI technologies are transforming the industry.
 

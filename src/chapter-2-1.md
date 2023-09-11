@@ -1,5 +1,4 @@
-Chapter 1: What is AI and How Does It Work?
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has emerged as a transformative technology in various industries, including writing. In this chapter, we will explore the fundamentals of AI, its working principles, and its applications relevant to the writing profession.
 

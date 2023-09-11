@@ -1,5 +1,4 @@
-Chapter 8: Using AI-Powered Research Tools to Gather Information and Sources
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Research is a crucial aspect of effective writing, providing writers with the information and sources they need to create compelling and accurate content. With the advent of AI-powered research tools, writers can streamline and enhance their research process, saving time and accessing valuable resources. In this chapter, we will explore the techniques and strategies for using AI-powered research tools to gather information and sources.
 

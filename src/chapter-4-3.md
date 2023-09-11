@@ -1,5 +1,4 @@
-Chapter 12: Automating the Editing and Proofreading Process with AI
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Editing and proofreading are essential components of the writing process. However, they can be time-consuming and often require significant effort and attention to detail. Luckily, AI-powered editing and proofreading tools can automate many of these processes, offering faster and more accurate revisions. In this chapter, we will explore the techniques and strategies writers can employ to use AI-powered tools to streamline the editing and proofreading process.
 

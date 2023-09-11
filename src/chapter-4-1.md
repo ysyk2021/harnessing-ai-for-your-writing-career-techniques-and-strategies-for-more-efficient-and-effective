@@ -1,5 +1,4 @@
-Chapter 7: Using AI to Improve Grammar, Syntax, and Style
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's digital age, AI technology has become a valuable tool for writers to enhance their writing skills. This chapter will explore techniques and strategies for utilizing AI to improve grammar, syntax, and style, resulting in more efficient and effective writing outcomes.
 

@@ -1,5 +1,4 @@
-Chapter 11: Using AI-Powered Project Management Tools to Streamline Workflows
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of writing careers, efficient project management is crucial for success. AI-powered project management tools offer innovative solutions to streamline workflows and enhance productivity. This chapter explores the techniques and strategies for utilizing AI-powered project management tools to optimize writing processes and achieve more efficient and effective writing outcomes.
 

@@ -1,5 +1,4 @@
-Chapter 5: AI-Powered Tools for Creating Customized Language and Tone
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the era of AI, writers can leverage powerful tools to create customized language and tone that resonates with their audience. These AI-powered tools utilize advanced algorithms and natural language processing techniques to enhance writing outcomes. In this chapter, we will explore various tools and strategies that harness AI for creating personalized language and tone.
 

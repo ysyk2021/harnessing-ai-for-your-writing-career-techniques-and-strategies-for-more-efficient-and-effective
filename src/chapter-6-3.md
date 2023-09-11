@@ -1,5 +1,4 @@
-Chapter 10: Automating Administrative Tasks with AI
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the modern era, AI technology has revolutionized many aspects of our lives, including the automation of administrative tasks. This chapter will explore the techniques and strategies for using AI to automate administrative tasks, leading to increased efficiency and effectiveness in the writing career.
 

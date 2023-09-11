@@ -1,5 +1,4 @@
-Chapter 9: Future Developments and Trends in AI-Powered Writing Careers
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The field of AI is rapidly evolving, and its impact on writing careers continues to grow. In this chapter, we will explore future developments and trends in AI-powered writing careers. From advancements in natural language processing (NLP) to emerging technologies, these developments are set to shape the landscape of writing careers in the coming years.
 
